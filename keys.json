@@ -1,0 +1,10 @@
+{
+    "OPENAI_API_KEY": "none",
+    "OPENAI_ORG_ID": "none",
+    "GEMINI_API_KEY": "none",
+    "ANTHROPIC_API_KEY": "none",
+    "REPLICATE_API_KEY": "none",
+    "GROQCLOUD_API_KEY": "none",
+    "HUGGINGFACE_API_KEY": "none",
+    "QWEN_API_KEY":"none"
+}
